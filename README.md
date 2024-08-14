@@ -8,6 +8,7 @@ To Dos
   - General Information (Meetings and Structure)
 - Meet the Team Content
   - Names + Roles + Photos
+- Events(?)
 - Stay Up to Date Content
   - Social Media Links
   - Discord Server Link
