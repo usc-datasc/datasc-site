@@ -1,1 +1,0 @@
-DataSC Prototype Website based off a template form https://html5up.net/
