@@ -1,0 +1,29 @@
+.navbar {
+    background-color: aqua;
+    overflow: hidden;
+}
+
+.navbar a {
+    font-size: 36px;
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar img {
+    float: left;
+    display: block;
+    height: 64px;
+}
+
+.welcome-body {
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 90vh;
+    align-items: center;
+}
