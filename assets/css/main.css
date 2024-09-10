@@ -3063,29 +3063,30 @@ input, select, textarea {
 				transition: opacity 1s ease, transform 1s ease;
 				opacity: 1;
 			}
+
 		
 		.spotlights > section:nth-child(1) {
-			background-color: rgba(37, 150, 190, 0.75);
+			background-color: rgba(37, 150, 190, 0.25);
 		}
 
 		.spotlights > section:nth-child(2) {
-			background-color: rgba(37, 150, 190, 0.5);
-		}
-
-		.spotlights > section:nth-child(3) {
 			background-color: rgba(37, 150, 190, 0.4);
 		}
 
+		.spotlights > section:nth-child(3) {
+			background-color: rgba(37, 150, 190, 0.55);
+		}
+
 		.spotlights > section:nth-child(4) {
-			background-color: rgba(37, 150, 190, 0.3);
+			background-color: rgba(37, 150, 190, 0.7);
 		}
 
 		.spotlights > section:nth-child(5) {
-			background-color: rgba(37, 150, 190, 0.2);
+			background-color: rgba(37, 150, 190, 0.85);
 		}
 
 		.spotlights > section:nth-child(6) {
-			background-color: rgba(37, 150, 190, 0.1);
+			background-color: rgba(37, 150, 190, 1);
 		}
 
 		.spotlights > section.inactive > .image:before,
